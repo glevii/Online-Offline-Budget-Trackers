@@ -23,7 +23,7 @@ The user may enter a description of the transaction, the amount, then press eith
 
 ## Links
 
-Link to Heroku deployment: <https://vast-mesa-26186.herokuapp.com/npm>
+Link to Heroku deployment: <https://vast-mesa-26186.herokuapp.com/>
 
 ## Questions
 
