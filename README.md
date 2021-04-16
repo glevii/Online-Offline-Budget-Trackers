@@ -1,7 +1,5 @@
 # Online-Offline-Budget-Trackers
 
-# Express.js-Note-Taker
-
 ## Table of Contents
 
 - [Description]
