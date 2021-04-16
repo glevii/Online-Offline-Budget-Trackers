@@ -25,14 +25,9 @@ mongoose.connect(
   }
 );
 
-// mongoose.connect("mongodb://localhost/budget", {
-//   useNewUrlParser: true,
-//   useFindAndModify: false
-// });
-
 // routes
 app.use(require("./routes/api.js"));
 
-app.listen(process.env.PORT || 3000, () => {
+app.listen(PORT, () => {
   console.log(`App running on port ${PORT}!`);
 });
